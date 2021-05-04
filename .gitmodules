@@ -1,0 +1,3 @@
+[submodule "keyforge-adventure-img"]
+	path = keyforge-adventure-img
+	url = ../../theambersociety/keyforge-adventure-img.git
